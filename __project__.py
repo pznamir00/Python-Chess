@@ -10,13 +10,9 @@ from PyQt5 import QtWidgets
 
 
 """
-Program szachów przygotowany przez Patryka Znamirowskiego i Piotra Zawalskiego
+Program szachów
 Program jest klasyczną grą w szachy, zawiera gui, systemy wykrywania szachu i mata
 Aby wykonać ruch wystarczy kliknąć na figurę a następnie na dostępne dla niej pole
-
-Podział pracy:
-- Patryk Znamirowski: silnik gry -> klasa Base (oraz pochodne), klasa Player, plik functions, klasa Chess
-- Piotr Zawalski: gui gry -> klasa Window, operacje na grafikach, podpoięcie gui do silnika gry
 """
 
 
